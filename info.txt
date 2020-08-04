@@ -1,0 +1,1 @@
+This is some text, and a new file, which we will insert into our previous commit, using amend, for practice. Yay! :)
